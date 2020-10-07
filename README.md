@@ -1,0 +1,2 @@
+# mario
+escalera en c 
